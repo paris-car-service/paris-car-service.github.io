@@ -64,13 +64,6 @@
 
     <p>With a little planning, you can make your journey to Disneyland Paris as stress-free and enjoyable as possible.</p>
 
-    <p>For more tips on planning your trip to Disneyland Paris, check out our other articles:</p>
-    <ul>
-        <li><a href="[Link to article on packing tips for Disneyland Paris]">Packing Tips for Disneyland Paris</a></li>
-        <li><a href="[Link to article on budgeting for Disneyland Paris]">Budgeting for Disneyland Paris</a></li>
-        <li><a href="[Link to article on must-see attractions at Disneyland Paris]">Must-See Attractions at Disneyland Paris</a></li>
-    </ul>
-
     <p>By following these tips and doing a little research, you can ensure that your family has a magical experience from start to finish.</p>
 
   <img src="disney.jpeg" alt="A family smiling in front of the Disneyland Paris castle">
