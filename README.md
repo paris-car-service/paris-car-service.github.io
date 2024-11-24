@@ -33,4 +33,4 @@
 
   <p>Now, get ready to wave goodbye to the airport and hello to the magic of Disneyland Paris!</p>
 
-  <img src="disneyland_family.jpg" alt="A family smiling in front of the Disneyland Paris castle">
+  <img src="disney.jpg" alt="A family smiling in front of the Disneyland Paris castle">
