@@ -1,4 +1,4 @@
-<h1><a href="https://en.paris-car-service.com/book/paris-roissy-charles-de-gaulle-airport-cdg-1/disneyland-paris-park-eurodisney-2/">Getting to Disneyland Paris from CDG Airport</a></h1> 
+<h1>Getting to Disneyland Paris from CDG Airport</h1> 
  <p>Embark on a magical adventure to Disneyland Paris! To ensure a smooth start to your vacation, let's explore the best ways to get from Charles de Gaulle Airport (CDG) to the park.</p>
 <h2>1. Private Transfer: Your Royal Carriage</h2>
 <p>Imagine arriving at CDG Airport and being greeted by your own personal chauffeur. A private transfer offers the ultimate in comfort and convenience. Your driver will whisk you away from the airport directly to your Disney hotel, bypassing the crowds and the stress of public transportation.</p>
@@ -13,6 +13,7 @@
 <p>Book your private transfer today and experience the magic of Disneyland Paris from the moment you step off the plane.</p>
 <h2>2. Magical Shuttle: Your Enchanted Bus Ride</h2>
 <p>Hop on the Magical Shuttle, a direct bus service that takes you straight to your Disney hotel. This is a convenient and affordable option for families traveling on a budget.</p>
+<a href="https://en.paris-car-service.com/book/paris-roissy-charles-de-gaulle-airport-cdg-1/disneyland-paris-park-eurodisney-2/">Book a transfer from charles de gaulles airport to Disneyland Paris park and hotel</a>
 <h3>Why Choose the Magical Shuttle?</h3>
 <ul>
 <li>Affordability: A budget-friendly way to reach Disneyland Paris.</li>
