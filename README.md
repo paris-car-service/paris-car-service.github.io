@@ -1,4 +1,4 @@
-<h1><a href="https://en.paris-car-service.com/book/paris-roissy-charles-de-gaulle-airport-cdg-1/disneyland-paris-park-eurodisney-2/">Getting to Disneyland Paris from CDG Airport</a></h1>: A Magical Journey
+<h1><a href="https://en.paris-car-service.com/book/paris-roissy-charles-de-gaulle-airport-cdg-1/disneyland-paris-park-eurodisney-2/">Getting to Disneyland Paris from CDG Airport</a></h1>
 
     <p>Embark on a magical adventure to Disneyland Paris! To ensure a smooth start to your vacation, let's explore the best ways to get from Charles de Gaulle Airport (CDG) to the park.</p>
 
